@@ -1,4 +1,0 @@
-Docker Build      ----- This command is used to build/create the image.
-Docker push       ----- This command pushes the image into the image registery.
-Docker pull       ----- This command pulls the image from the image registery
-Docker inspect    ----- This command gives the info of the container
