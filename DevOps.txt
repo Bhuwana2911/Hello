@@ -1,0 +1,5 @@
+To add the remote repo to local repo cmd: git remote add origin "link"(link : from github remote repo(SSH link))
+To access the remote repo in our local repo : git pull origin master
+To upload the local repo contents to remote repo : git push origin master
+
+
