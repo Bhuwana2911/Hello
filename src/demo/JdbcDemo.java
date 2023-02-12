@@ -6,7 +6,7 @@ public class JdbcDemo {
 	public static void main(String args[]) throws Exception{
 		
 		
-		String url = "jdbc:mysql://localhost:3306/sakil";
+		String url = "jdbc:mysql://localhost:3306/sakila";
 		String uname = "root";
 		String pass = "Admin@2022";
 		String query = "select * from actor";
